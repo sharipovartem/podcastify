@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM python:3.12.2-slim-buster
+FROM python:3.10.12-slim-buster
 
 # Set the working directory in the container
 WORKDIR /app
